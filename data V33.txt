@@ -46,12 +46,12 @@
 },
   "my_data":[
   {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+   "photo1":"https://iili.io/HPr2T79.jpg"},
+  {"desc2":"The Skibidi Toilet War found its roots in a viral music video released by the Russian rave band Little Big in 2018","photo2":"https://iili.io/HPg6WYB.jpg"},
+  {"desc3":"The video featured a catchy song called "Skibidi," accompanied by a signature dance move involving a sideways leg kick and arm swing","photo3":"https://iili.io/HPr2Id7.jpg"},
+  {"desc4":"The dance quickly gained popularity, spreading across social media platforms like wildfire","photo4":"https://iili.io/HPr2xgS.jpg"},
+  {"desc5":"As its popularity grew, fans began posting videos of themselves performing the Skibidi dance in various locations, including public restrooms.","photo5":"https://iili.io/HPr2Amu.jpg"},
+  {"descd":"What started as a whimsical trend soon evolved into a full-blown competition for toilet domination","photod":"https://iili.io/HPr25zb.jpg"}
    ]
  
 }
